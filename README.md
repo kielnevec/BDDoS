@@ -1,2 +1,0 @@
-# BDDoS
-Better DDoS Script
