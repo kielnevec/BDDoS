@@ -4,11 +4,6 @@
 
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
-
-<p align="center">Please Don't Hit '.gov'  and '.ir' Websites :)</p>
-
-<p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
-
 ## Features And Method
 
  * 💣 Layer7
@@ -78,18 +73,6 @@ You can download from [GitHub Releases](https://github.com/AntyBD/BDDoS/releases
 * cfscrape
 * icmplib
 * scapy
----
-
-**Video's**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon..
-
-**toturial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://youtu.be/lccRRTKw9CU
----
 
 **Clone and Install Script**
 
