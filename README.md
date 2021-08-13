@@ -8,7 +8,6 @@
 <p align="center">Please Don't Hit '.gov'  and '.ir' Websites :)</p>
 
 <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="https://i.imgur.com/ueDhdte.png" width="1078" height="296" alt="SCRIPT"></p>
 
 ## Features And Method
 
