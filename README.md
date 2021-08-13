@@ -94,7 +94,7 @@ You can download from [GitHub Releases](https://github.com/AntyBD/BDDoS/releases
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/BDDoS/BDDoS.git
+git clone https://github.com/AntyBD/BDDoS
 cd BDDoS
 pip3 install -r requirements.txt
 ```
