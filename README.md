@@ -61,7 +61,7 @@
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/AntyBD/BDDoS/releases
+You can download from [GitHub Releases](https://github.com/AntyBD/BDDoS/releases)
 
 ### Getting Started
 
